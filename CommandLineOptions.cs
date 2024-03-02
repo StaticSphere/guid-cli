@@ -1,5 +1,8 @@
 using CommandLine;
 
+namespace GuidCli;
+
+// ReSharper disable once ClassNeverInstantiated.Global
 public class CommandLineOptions
 {
     [Option('l', "lowercase", Required = false, HelpText = "If specified, the guid is created with lowercase letters")]

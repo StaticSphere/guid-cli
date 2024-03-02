@@ -1,4 +1,5 @@
 ﻿using CommandLine;
+using GuidCli;
 
 Parser
     .Default
