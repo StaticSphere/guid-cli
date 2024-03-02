@@ -1,6 +1,6 @@
 # StaticSphere.Cli.Guid
 
-This project is a simple .NET 6 CLI tool that can be installed as a global dotnet tool, and will generate GUID's from the command line. As a .NET 6 CLI, it can be installed on Windows, Mac, and Linux.
+This project is a simple .NET 8 CLI tool that can be installed as a global dotnet tool, and will generate GUID's from the command line. As a .NET 8 CLI, it can be installed on Windows, Mac, and Linux.
 
 ## Installation
 
